@@ -1,4 +1,4 @@
-/* This problem can be found at: https://neps.academy/br/exercise/298 */
+/* This problem can be found at: https://neps.academy/exercise/298 */
 
 #include <bits/stdc++.h>
 using namespace std;
